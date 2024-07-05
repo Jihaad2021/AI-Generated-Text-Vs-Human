@@ -1,13 +1,12 @@
 # AI-Generated-Text-Vs-Human
 
-# Ringkasan Proyek: Membedakan Teks Buatan AI dengan Teks Buatan Manusia
 ## Gambaran Proyek
 Proyek ini bertujuan untuk mengembangkan model yang dapat secara efektif membedakan antara teks yang dihasilkan oleh AI dan teks yang ditulis oleh manusia. Dengan memanfaatkan kombinasi model RNN dan berbagai teknik pra-pemrosesan, proyek ini bertujuan untuk mencapai akurasi tinggi dalam klasifikasi teks.
 
 ## Tujuan
-Untuk membedakan antara teks buatan AI dan teks buatan manusia.
-Untuk mengevaluasi kinerja berbagai model jaringan saraf dalam tugas klasifikasi ini.
-Untuk menilai dampak dari berbagai teknik pra-pemrosesan teks terhadap kinerja model.
+- Untuk membedakan antara teks buatan AI dan teks buatan manusia.
+- Untuk mengevaluasi kinerja berbagai model jaringan saraf dalam tugas klasifikasi ini.
+- Untuk menilai dampak dari berbagai teknik pra-pemrosesan teks terhadap kinerja model.
 
 ## Model yang Digunakan
 - Long Short-Term Memory (LSTM)
