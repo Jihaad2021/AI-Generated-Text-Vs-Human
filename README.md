@@ -22,10 +22,10 @@ Perkembangan Artificial Intelligence (AI) yang semakin pesat menuntut kita untuk
 - Penghapusan Stopword: Menyaring stopword umum.
 
 ## Eksperimen
-Pada setiap model dilakukan 3 jenis eksperimen pra-pemrosesan text
-- Eksperimen 1: Tanpa pra-pemrosesan
-- Eksperimen 2: Konversi ke Huruf Kecil, Menghapus Angka dan Tanda Baca
-- Eksperimen 3: Konversi ke Huruf Kecil, Menghapus Angka, Tanda Baca dan Stopword
+Pada setiap model dilakukan 2 jenis eksperimen pra-pemrosesan text
+- Kontrol : Tanpa pra-pemrosesan
+- Eksperimen 1: Konversi ke Huruf Kecil, Menghapus Angka dan Tanda Baca
+- Eksperimen 2: Konversi ke Huruf Kecil, Menghapus Angka, Tanda Baca dan Stopword
 
 ## Metodologi
 - Pengumpulan Data: Dataset yang digunakan berasal dari kompetisi ALTA Shared Task, dengan 18.000 data training dan 2.000 data testing 
@@ -34,7 +34,7 @@ Pada setiap model dilakukan 3 jenis eksperimen pra-pemrosesan text
 - Evaluasi Model: Mengevaluasi model menggunakan metriks akurasi dari website ALTA Shared Task.
 
 ## Hasil
-| Model | Eksperimen 1 | Eksperimen 2 | Eksperimen 3 |
+| Model | Kontrol | Eksperimen 1 | Eksperimen 2 |
 | --- | --- | --- | --- |
 | LSTM | **94.75** | **95.05** | 92.70 |
 | GRU | 93.35 | 93.65 | **93.70** |
