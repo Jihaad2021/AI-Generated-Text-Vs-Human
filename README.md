@@ -10,12 +10,12 @@ Untuk mengevaluasi kinerja berbagai model jaringan saraf dalam tugas klasifikasi
 Untuk menilai dampak dari berbagai teknik pra-pemrosesan teks terhadap kinerja model.
 
 ## Model yang Digunakan
-Long Short-Term Memory (LSTM)
-Gated Recurrent Unit (GRU)
-Bidirectional LSTM (BiLSTM)
-Bidirectional GRU (BiGRU)
-Kombinasi LSTM-GRU
-Kombinasi BiLSTM-BiGRU
+- Long Short-Term Memory (LSTM)
+- Gated Recurrent Unit (GRU)
+- Bidirectional LSTM (BiLSTM)
+- Bidirectional GRU (BiGRU)
+- Kombinasi LSTM-GRU
+- Kombinasi BiLSTM-BiGRU
 
 ## Teknik Pra-pemrosesan
 Konversi ke Huruf Kecil: Mengubah semua karakter menjadi huruf kecil.
